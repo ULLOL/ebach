@@ -15,7 +15,7 @@ incio
     6-abrir a porta do banheiro.
         1-se a porta estiver aberta.
             1- passar por ela.
-        2- se a porta estiver fechada.
+        2- se a porta estiver fechada.git 
             1-colcoar a mão na massaneta.
             2-girar a massaneta.
             3-puxar a massaneta.
