@@ -1,0 +1,34 @@
+*bom dia
+incio
+    1-desligar o despertador.
+    2-olhar as mesnagens do whatsapp.
+    3-olhar o instagram.
+    4-levantar da cama.
+    5-abrir a porta do quarto.
+        1-se a porta estiver aberta.
+            1- passar por ela.
+        2- se a porta estiver fechada.
+            1-colcoar a mão na massaneta.
+            2-girar a massaneta.
+            3-puxar a massaneta.
+            4-passar pela porta.
+    6-abrir a porta do banheiro.
+        1-se a porta estiver aberta.
+            1- passar por ela.
+        2- se a porta estiver fechada.
+            1-colcoar a mão na massaneta.
+            2-girar a massaneta.
+            3-puxar a massaneta.
+            4-passar pela porta.
+    7-usar o banheiro.
+    8-sair do banheiro.
+        1-se a porta estiver aberta.
+            1- passar por ela.
+        2- se a porta estiver fechada.
+            1-colcoar a mão na massaneta.
+            2-girar a massaneta.
+            3-puxar a massaneta.
+            4-passar pela porta.
+    9-ligar o computar.
+    10-começar a tablhar.
+Fim
