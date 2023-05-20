@@ -1,3 +1,6 @@
+/**
+ * @author Pedro_Salomao
+ */
 public class Chocolate {
     
     private String marca;
@@ -12,6 +15,10 @@ public class Chocolate {
         return marca;
     }
 
+    
+    /** 
+     * @param marca
+     */
     public void setMarca(String marca) {
         this.marca = marca;
     }
