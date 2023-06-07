@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraDeNota",
+            "request": "launch",
+            "mainClass": "CalculadoraDeNota",
+            "projectName": "aulas_java_6a09af90"
+        },
+        {
+            "type": "java",
+            "name": "MostraDados",
+            "request": "launch",
+            "mainClass": "MostraDados",
+            "projectName": "aulas_java_6a09af90"
+        },
+        {
+            "type": "java",
+            "name": "ex9",
+            "request": "launch",
+            "mainClass": "ex9",
+            "projectName": "aulas_java_6a09af90"
+        },
+        {
+            "type": "java",
+            "name": "media",
+            "request": "launch",
+            "mainClass": "media",
+            "projectName": "aulas_java_6a09af90"
+        }
+    ]
+}
