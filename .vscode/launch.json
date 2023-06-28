@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NomeSex",
+            "request": "launch",
+            "mainClass": "NomeSex",
+            "projectName": "aulas_java_6a09af90"
+        },
+        {
+            "type": "java",
+            "name": "ex10",
+            "request": "launch",
+            "mainClass": "ex10",
+            "projectName": "aulas_java_6a09af90"
+        },
+        {
+            "type": "java",
+            "name": "nomesord",
+            "request": "launch",
+            "mainClass": "nomesord",
+            "projectName": "aulas_java_6a09af90"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
