@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ex12",
+            "request": "launch",
+            "mainClass": "ex12",
+            "projectName": "aulas_java_6a09af90"
+        },
+        {
+            "type": "java",
             "name": "NomeSex",
             "request": "launch",
             "mainClass": "NomeSex",
